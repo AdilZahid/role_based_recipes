@@ -22,9 +22,12 @@ $panel-default-bg: #073B15;
   letter-spacing: -1px;
   font-weight: bold;
 }
-.footer-c2,a{
+.footer-c2{
   float: right;
   color: white;
+}
+.li , a{
+  color:white;
 }
 #logo:hover {
   color: #fff;
